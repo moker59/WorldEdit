@@ -19,5 +19,6 @@ deploy:
   file_glob: true
   file:
     - "./worldedit-bukkit/build/libs/*dist.jar"
-  on: all
+  on:
+    all:
 
